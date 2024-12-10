@@ -1,0 +1,16 @@
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\bin\Debug\net6.0\CSVHeader.Presentation.exe
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\bin\Debug\net6.0\CSVHeader.Presentation.deps.json
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\bin\Debug\net6.0\CSVHeader.Presentation.runtimeconfig.json
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\bin\Debug\net6.0\CSVHeader.Presentation.dll
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\bin\Debug\net6.0\CSVHeader.Presentation.pdb
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\obj\Debug\net6.0\CSVHeader.Presentation.csproj.AssemblyReference.cache
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\obj\Debug\net6.0\CSVHeader.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\obj\Debug\net6.0\CSVHeader.Presentation.AssemblyInfoInputs.cache
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\obj\Debug\net6.0\CSVHeader.Presentation.AssemblyInfo.cs
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\obj\Debug\net6.0\CSVHeader.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\obj\Debug\net6.0\CSVHeader.Presentation.dll
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\obj\Debug\net6.0\refint\CSVHeader.Presentation.dll
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\obj\Debug\net6.0\CSVHeader.Presentation.pdb
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\obj\Debug\net6.0\CSVHeader.Presentation.genruntimeconfig.cache
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\obj\Debug\net6.0\ref\CSVHeader.Presentation.dll
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\bin\Debug\net6.0\Arquivos\ProdutosCsv.csv

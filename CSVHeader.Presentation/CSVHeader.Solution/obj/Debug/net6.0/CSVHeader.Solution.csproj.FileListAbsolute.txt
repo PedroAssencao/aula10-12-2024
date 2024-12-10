@@ -1,0 +1,15 @@
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\bin\Debug\net6.0\CSVHeader.Solution.exe
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\bin\Debug\net6.0\CSVHeader.Solution.deps.json
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\bin\Debug\net6.0\CSVHeader.Solution.runtimeconfig.json
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\bin\Debug\net6.0\CSVHeader.Solution.dll
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\bin\Debug\net6.0\CSVHeader.Solution.pdb
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\obj\Debug\net6.0\CSVHeader.Solution.csproj.AssemblyReference.cache
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\obj\Debug\net6.0\CSVHeader.Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\obj\Debug\net6.0\CSVHeader.Solution.AssemblyInfoInputs.cache
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\obj\Debug\net6.0\CSVHeader.Solution.AssemblyInfo.cs
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\obj\Debug\net6.0\CSVHeader.Solution.csproj.CoreCompileInputs.cache
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\obj\Debug\net6.0\CSVHeader.Solution.dll
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\obj\Debug\net6.0\refint\CSVHeader.Solution.dll
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\obj\Debug\net6.0\CSVHeader.Solution.pdb
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\obj\Debug\net6.0\CSVHeader.Solution.genruntimeconfig.cache
+C:\Users\escola3\Documents\GitHub\aula10-12-2024\CSVHeader.Presentation\CSVHeader.Solution\obj\Debug\net6.0\ref\CSVHeader.Solution.dll
